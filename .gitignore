@@ -1,0 +1,13 @@
+node_modules
+**/node_modules
+**/.next
+**/dist
+**/build
+**/.DS_Store
+**/npm-debug.log*
+backend/.env
+frontend/.env.local
+backend/uploads/kyc/*
+backend/uploads/deposits/*
+backend/uploads/payment-settings/*
+!.gitkeep
